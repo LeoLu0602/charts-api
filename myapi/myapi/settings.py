@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-d_n96bn_87vjv)%0igw7d1e@-epu(!arprr@xz=(ytg!4o&@z&
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['https://charts-api-3g2c.onrender.com']
 
 
 # Application definition
